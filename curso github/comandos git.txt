@@ -1,0 +1,22 @@
+Prompt de comando - Diretorio C:
+-dir: Mostra todas as pastas dentro da pasta do user.
+-cd: Direciona para uma pasta especifica. Usar cd / 
+-cd .. :retroceder na navegação
+-cls: Comando para limpar a tela
+-Tecla TAB: Completa automaticamente palavras/nomes de pastas
+-mkdir: Comando para criar uma pasta. ex: mkdir workspace
+	-echo: printa na tela qualquer texto q eu queira. ex usado:Hello
+se colo cado o simbolo > na frente, vai redirecionar a saida echo
+para um arquivo. ex: echo hello > hello.txt
+	-del (nome da pasta): deleta tudo dentro da pasta(deleta apenas aquivos)
+*Atalho* tecla da setinha pra cima mostra todos os comandos ja usados.
+-rmdir workspace /S /Q: Apaga todo o repositorio(pasta)
+   GITBASH
+ctrl l:limpa tela
+flag -a: mostra arquivos ocultos. ex: ls -a
+mv: move 
+git status:mostra o status
+git init: inicializa repositorio
+git add:
+git commit:
+
